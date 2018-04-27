@@ -1,11 +1,11 @@
 <strings id="po">
-	<THIS_LANGUAGE><![CDATA[Polskie]]></THIS_LANGUAGE>
-    <EXIT_PROMPT_TEXT><![CDATA[Naciśnij "Wróć" ponownie, aby wyjść...]]></EXIT_PROMPT_TEXT>
+	<THIS_LANGUAGE><![CDATA[Polski]]></THIS_LANGUAGE>
+    <EXIT_PROMPT_TEXT><![CDATA[Naciśnij ponownie WSTECZ aby zamknąć]]></EXIT_PROMPT_TEXT>
     <LANGUAGE><![CDATA[Język]]></LANGUAGE>
-    <LANGUAGE_SUBTITLE><![CDATA[Domyślnie zgaduje Twój język]]></LANGUAGE_SUBTITLE>
-    <TUTORIAL_TEXT><![CDATA[Speccy to Audio Spectrum Analyzer. Wyświetli spektrum dźwięku wykrytego przez mikrofon urządzenia.%0d• Dotknij i przeciągnij po wykresie, aby sprawdzić konkretną częstotliwość (możesz to zrobić w trakcie pauzy)%0d• Zrób szczypta 2 palców do powiększ / pomniejsz%0d• Wykonaj przeciągnięcie dwoma palcami, aby przesuwać się po widmie podczas powiększania (eksperymentalnie)%0d• Dotknij ikonę SCHOWKA, aby skopiować migawkę danych spektrum do schowka w formacie CSV (Hz, dB, szczyt)%0d• Naciśnij czerwoną ikonę "odświeżania", aby zresetować zatrzymanie szczytowe%0d• Dotknij tego pola lub przycisku "wstecz" urządzenia, aby zamknąć pomoc%0d• Prześlij opinię i sugestie do: ]]></TUTORIAL_TEXT>
-    <CLIPBOARD_SUCCESS><![CDATA[Dane migawki skopiowane do schowka jako%0dWartości oddzielone przecinkami (CSV): Hz, dB, peak]]></CLIPBOARD_SUCCESS>
-    <CLIPBOARD_FAIL><![CDATA[Niestety, Twoje urządzenie nie pozwoliło mi skopiować do schowka]]></CLIPBOARD_FAIL>
+    <LANGUAGE_SUBTITLE><![CDATA[Domyślnym językiem jest język systemowy]]></LANGUAGE_SUBTITLE>
+    <TUTORIAL_TEXT><![CDATA[Speccy to Analizator Spektrum Audio. Wyświetla spektrum dźwięku zbieranego przez mikrofon.%0d• Dotknij i przeciągnij po wykresie, aby sprawdzić konkretną częstotliwość (możesz to zrobić w trakcie pauzy)%0d• Uszczypnij aby powiększyć/pomniejszyć%0d• Użyj dwóch palców, aby przesuwać się po wykresie podczas powiększania (eksperymentalna)%0d• Dotknij ikonę SCHOWKA, aby skopiować zrzut danych spektrum do schowka w formacie CSV (Hz, dB, szczyt)%0d• Naciśnij czerwoną ikonę "odświeżania", aby zresetować poziom szczytu%0d• Dotknij tego pola lub przycisku "wstecz", aby zamknąć pomoc%0d• Prześlij opinię i sugestie do: ]]></TUTORIAL_TEXT>
+    <CLIPBOARD_SUCCESS><![CDATA[Dane spektrum skopiowane do schowka jako%0dWartości oddzielone przecinkami (CSV): Hz, dB, szczyt]]></CLIPBOARD_SUCCESS>
+    <CLIPBOARD_FAIL><![CDATA[Niestety, Nie udało się skopiować danych do schowka]]></CLIPBOARD_FAIL>
     <RATE_PROMPT><![CDATA[MAM NADZIEJĘ, ŻE ZADAWALAJĄ CECHY%0d%0d Naprawdę doceniłbym to, gdybyś mógł ocenić aplikację, bardzo by mi to pomogło. Dzięki! Ta wiadomość ulegnie autodestrukcji w {x} sekund.%0d%0dDotknij TUTAJ, aby ocenić, lub dotknij WRÓĆ, aby to wyczyścić.]]></RATE_PROMPT>
     <EXIT_RATE_PROMPT><![CDATA[Dziękujemy za skorzystanie ze Speccy. Rozważ ocenianie aplikacji, aby mi pomóc, dzięki!%0dTap TUTAJ, aby ocenić.%0d%0d]]></EXIT_RATE_PROMPT>
     <CLOSE><![CDATA[BLISKO]]></CLOSE>
