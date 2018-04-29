@@ -7,15 +7,15 @@
     <CLIPBOARD_SUCCESS><![CDATA[Dane spektrum skopiowane do schowka jako%0dWartości oddzielone przecinkami (CSV): Hz, dB, szczyt]]></CLIPBOARD_SUCCESS>
     <CLIPBOARD_FAIL><![CDATA[Niestety, Nie udało się skopiować danych do schowka]]></CLIPBOARD_FAIL>
     <RATE_PROMPT><![CDATA[MAM NADZIEJĘ, ŻE ZADAWALAJĄ CECHY%0d%0d Naprawdę doceniłbym to, gdybyś mógł ocenić aplikację, bardzo by mi to pomogło. Dzięki! Ta wiadomość ulegnie autodestrukcji w {x} sekund.%0d%0dDotknij TUTAJ, aby ocenić, lub dotknij WRÓĆ, aby to wyczyścić.]]></RATE_PROMPT>
-    <EXIT_RATE_PROMPT><![CDATA[Dziękujemy za skorzystanie ze Speccy. Rozważ ocenianie aplikacji, aby mi pomóc, dzięki!%0dTap TUTAJ, aby ocenić.%0d%0d]]></EXIT_RATE_PROMPT>
-    <CLOSE><![CDATA[BLISKO]]></CLOSE>
-    <RESET_DEFAULTS><![CDATA[NASTAWIĆ]]></RESET_DEFAULTS>
-    <LANGUAGE_HELP><![CDATA[Potrzebuję pomocy przy tłumaczeniach. Jeśli zauważysz błąd lub chciałbyś dodać swój język, daj mi znać. Dzięki :)]]></LANGUAGE_HELP>
-    <MIC_SAMPLE_RATE><![CDATA[MIKROFON PRÓBKI (Hz)%0dPowyżej 44100 może nie być obsługiwany]]></MIC_SAMPLE_RATE>
-    <MIC_SAMPLE_RATE_HELP><![CDATA[Częstotliwość próbkowania to liczba żądań na sekundę żądanych danych z mikrofonu urządzenia. Należy pamiętać, że wartości wyższe niż 44100 mogą nie być obsługiwane, w takim przypadku zostanie użyte maksimum 44100.]]></MIC_SAMPLE_RATE_HELP>
-    <TAP_TO_CLOSE><![CDATA[Dotknij tego pola, aby je zamknąć]]></TAP_TO_CLOSE>
-    <MIC_GAIN><![CDATA[ZMIANA MIKROFONU: ]]></MIC_GAIN>
-    <MIC_GAIN_HELP><![CDATA[Możesz zwiększyć lub zmniejszyć czułość mikrofonu, zmieniając "wzmocnienie", które może być przydatne do kalibracji analizatora w określonych sytuacjach Wartość normalna / domyślna wynosi 50%.]]></MIC_GAIN_HELP>
+    <EXIT_RATE_PROMPT><![CDATA[Dziękujemy za skorzystanie ze Speccy. Rozważ ocenianie aplikacji, aby mi pomóc, dzięki!%0dNaciśnij TUTAJ, aby ocenić.%0d%0d]]></EXIT_RATE_PROMPT>
+    <CLOSE><![CDATA[ZAMKNIJ]]></CLOSE>
+    <RESET_DEFAULTS><![CDATA[PRZYWRÓĆ DOMYŚLNE]]></RESET_DEFAULTS>
+    <LANGUAGE_HELP><![CDATA[Potrzebuję pomocy przy tłumaczeniach. Jeśli zauważyłeś jakiś błąd lub chciałbyś dodać swój język, daj mi znać. Dzięki :)]]></LANGUAGE_HELP>
+    <MIC_SAMPLE_RATE><![CDATA[PRÓBKOWANIE MIKROFONU (Hz)%0dMaksymalnie 44100 Hz]]></MIC_SAMPLE_RATE>
+    <MIC_SAMPLE_RATE_HELP><![CDATA[Częstotliwość próbkowania to liczba żądań danych na sekundę odbieranych z mikrofonu. Należy pamiętać, że wartość większa niż 44100 nie jest obsługiwana, w takim przypadku zostanie użyte maksimum 44100.]]></MIC_SAMPLE_RATE_HELP>
+    <TAP_TO_CLOSE><![CDATA[Dotknij ten komunikat, aby go zamknąć]]></TAP_TO_CLOSE>
+    <MIC_GAIN><![CDATA[WZMOCNIENIE CZUŁOŚCI: ]]></MIC_GAIN>
+    <MIC_GAIN_HELP><![CDATA[Możesz zwiększyć lub zmniejszyć czułość mikrofonu, przydatne do kalibracji analizatora w określonych sytuacjach Wartość normalna / domyślna wynosi 50%.]]></MIC_GAIN_HELP>
     <FFT_LENGTH><![CDATA[DŁUGOŚĆ FFT]]></FFT_LENGTH>
     <FFT_LENGTH_HELP><![CDATA[Jest to liczba podziałów częstotliwości (lub "bins"), w których analizator dzieli próbkowany dźwięk na. Wyższe wartości dają dokładniejszą analizę, ale na niektórych urządzeniach mogą być wolniejsze.]]></FFT_LENGTH_HELP>
     <FREQUENCY_SCALE_LOG_BASE><![CDATA[Baza logarytmiczna częstotliwości]]></FREQUENCY_SCALE_LOG_BASE>
@@ -24,16 +24,16 @@
     <TIMES_PER_SECOND><![CDATA[razy na sekundę]]></TIMES_PER_SECOND>
     <UNRELIABLE><![CDATA[niewiarygodne]]></UNRELIABLE>
     <WATERFALL_PALETTE><![CDATA[PALETA WATERFALOWA]]></WATERFALL_PALETTE>
-    <DRAW_MAX_HOLD><![CDATA[RYSUJ MAKSIMUM (czerwone szczyty)]]></DRAW_MAX_HOLD>
-    <PEAK_DECAY><![CDATA[ROZPAD SZCZYTU: ]]></PEAK_DECAY>
-    <OFF><![CDATA[POZA]]></OFF>
-    <PEAK_DECAY_HELP><![CDATA[Jeśli chcesz, możesz ustawić zatrzymanie wartości szczytowej tak, aby opadało z upływem czasu, podobnie jak wyświetlacz EQ starych systemów stereo.]]></PEAK_DECAY_HELP>
-    <SMOOTHING_FACTOR><![CDATA[GŁADKI CZYNNIK: ]]></SMOOTHING_FACTOR>
+    <DRAW_MAX_HOLD><![CDATA[ZAZNACZ MAKSIMUM (zaznaczone czerwonym)]]></DRAW_MAX_HOLD>
+    <PEAK_DECAY><![CDATA[WSTRZYMANIE SZCZYTU: ]]></PEAK_DECAY>
+    <OFF><![CDATA[WYŁĄCZONE]]></OFF>
+    <PEAK_DECAY_HELP><![CDATA[Jeśli chcesz, możesz ustawić zatrzymanie wartości szczytowej tak, aby opadała z upływem czasu, podobnie jak w  wyświetlaczach EQ starych systemów stereo.]]></PEAK_DECAY_HELP>
+    <SMOOTHING_FACTOR><![CDATA[WYGŁADZZANIE: ]]></SMOOTHING_FACTOR>
     <SMOOTHING_FACTOR_HELP><![CDATA[Zmniejszenie tej wartości zmniejsza "drganie" analizatora, ale powoduje, że jest mniej responsywny / dokładny.]]></SMOOTHING_FACTOR_HELP>
     <MINIMUM_FREQUENCY><![CDATA[Minimalna częstotliwość]]></MINIMUM_FREQUENCY>
     <MAXIMUM_FREQUENCY><![CDATA[Maksymalna częstotliwość]]></MAXIMUM_FREQUENCY>
-    <SETTINGS_FOOTER><![CDATA[UWAGA: Nadal można powiększać i przesuwać siatkę, %0dnaciskając klawisz dwa palce i przeciągając %0d(eksperymentalnie)]]></SETTINGS_FOOTER>
-    <SETTINGS_ROTATE_PROMPT><![CDATA[OBRÓĆ SWOJE URZĄDZENIE %0dDO TRYBU PORTRETU %0dABY ZOBACZYĆ WSZYSTKIE %0dUSTAWIENIA]]></SETTINGS_ROTATE_PROMPT>
+    <SETTINGS_FOOTER><![CDATA[UWAGA: Możesz powiększać i przesuwać siatkę, %0używając dwóch palców %0d(funkcja eksperymentalna)]]></SETTINGS_FOOTER>
+    <SETTINGS_ROTATE_PROMPT><![CDATA[OBRÓĆ URZĄDZENIE %0dPIONOWO %0dABY ZOBACZYĆ WSZYSTKIE %0dUSTAWIENIA]]></SETTINGS_ROTATE_PROMPT>
     <LINEAR_SCALE><![CDATA[Skala liniowa]]></LINEAR_SCALE>
     <LOGARITHMIC_SCALE><![CDATA[skala logarytmiczna]]></LOGARITHMIC_SCALE>
     <NATURAL_LOG_2><![CDATA[Logarytm naturalny 2]]></NATURAL_LOG_2>
